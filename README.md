@@ -20,4 +20,4 @@ if the ruby 1.9 or higher
 #apt-get remove ruby 1.9.1
 
 Installation is done by root: #sh webui.sh
-Now you should be done and should be able to visit your server on https://yourservername_or_ip:3001
+Now you should be done and should be able to visit your server on https://yourservername_or_ip:3008
