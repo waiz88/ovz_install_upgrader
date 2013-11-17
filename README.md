@@ -15,9 +15,9 @@ Wait for a while until script finishes, then reboot.
 
 After the reboot you need to install the Web Panel for OpenVZ. I tried to do this at the same time as the installation and things would not work correctly. 
 
-"apt-get install ruby1.8 rubygems (may already be installed)
-"update-alternatives --set ruby "/usr/bin/ruby1.8"
-"update-alternatives --set gem "/usr/bin/gem1.8"
+#apt-get install ruby1.8 rubygems (may already be installed)
+#update-alternatives --set ruby "/usr/bin/ruby1.8"
+#update-alternatives --set gem "/usr/bin/gem1.8"
 
 "apt-get remove ruby 1.9.1 or
 "apt-get remove ruby 1.9.2 or
